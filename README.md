@@ -3,6 +3,7 @@
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
+4. [Another paragraph4](#paragraph4)
 
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
@@ -15,3 +16,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
+
+#### Another paragraph <a name="paragraph4"></a>
+The second paragraph text
+
