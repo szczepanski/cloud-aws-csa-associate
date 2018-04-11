@@ -4,8 +4,8 @@ AWS Certified Solutions Architect - Associate
 
 
 # Table of Contents
-1. [Example ONE](#example 1)
-2. [Example Two](# example 2)
+1. [Example ONE](# Example 1)
+2. [Example Two](# Example 2)
 3. [Third Example Three](# example 3)
 
 # Example 1
