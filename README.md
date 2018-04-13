@@ -23,7 +23,7 @@ CAPEX - capital expenditure (equipment, employees, utility bills, static)
 - SDK (software development kits)
 - CLI
 
-#### Free tier and IAM - Identity and Access Management basics. <a name = "iambasic"></a>
+#### Free tier and IAM - Identity and Access Management basics. 
 arn - amazon resource name 
 Identity and Access Management - IAM
 
@@ -46,9 +46,10 @@ IAM Password Policy Screen
 Section 4
 VPC intro 
 
-# Core Knowledge <a name="core"></a>
 
-# Sample next par  <a name="sampl"></a>
+# Core Knowledge 
+
+# Sample next par 
 
 # Sample Text 2 
 
