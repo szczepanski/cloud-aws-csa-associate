@@ -5,7 +5,10 @@ https://www.udemy.com/aws-certified-solutions-architect-associate-exam/learn/v4/
 # Table of contents
 
 - [Introduction](#introduction)
-- [Core Knowledge - VPC,Sec Group,N ACL,Elastic IP,NAT,VPN,VPC Peering& D. Connect](#core)
+   - [... aaS and access](#aas)    
+   - [IAM Basics](#iambasic)
+
+- [Core Knowledge](#core)
 - [Test Paragraph](#paragraph4)
 
    - [Test Sub](#subcio10)
@@ -19,7 +22,7 @@ https://www.udemy.com/aws-certified-solutions-architect-associate-exam/learn/v4/
 
 # Introduction <a name="introduction"></a>
 
-#### IaaS, PaaS, DaaS, Saas 
+#### IaaS, PaaS, DaaS, Saas <a name="aas"></a>
 
 IaaS - infrastructure-  storage, compute, VM (EC2s), connectivity, networking, security
 PaaS - platform all above plus database sqls servers, aurora etc. with non managed database 
@@ -30,12 +33,12 @@ OPEX - operational expenditure (own operations or  monthly bill - AWS - elastic)
 CAPEX - capital expenditure (equipment, employees, utility bills, static)
  
 ##### 3 Ways to access AWS:
-console
-REST API
-SDK - software development kits
-CLI
+- console
+- REST API
+- SDK (software development kits)
+- CLI
 
-#### Free tier and IAM - Identity and Access Management basics. 
+#### Free tier and IAM - Identity and Access Management basics. <a name = "iambasic">
 arn - amazon resource name 
 Identity and Access Management - IAM
 Two type of IAM identities:
