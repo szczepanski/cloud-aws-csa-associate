@@ -5,7 +5,7 @@ https://www.udemy.com/aws-certified-solutions-architect-associate-exam/learn/v4/
 # Table of contents
 
 - [Introduction](#introduction)
-- [Introduction](#core)
+- [Core Knowledge - VPC,Sec Group,N ACL,Elastic IP,NAT,VPN,VPC Peering& D. Connect](#core)
 - [Test Paragraph](#paragraph4)
 
    - [Test Sub](#subcio10)
@@ -56,7 +56,7 @@ IAM Password Policy Screen
 Section 4
 VPC intro 
 
-# Core Knowledge - VPC,Sec Group,N ACL,Elastic IP,NAT,VPN,VPC Peering& D. Connect <a name="Core"></a>
+# Core Knowledge - VPC,Sec Group,N ACL,Elastic IP,NAT,VPN,VPC Peering& D. Connect <a name="core"></a>
 Groups - logical grouping - developers, administrators etc, 
 Any new user by default has no permissions by default - denied from anything
 Authentication - access- username and password - credentials
