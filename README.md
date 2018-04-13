@@ -69,7 +69,7 @@ VPC intro
 VPCs are either for one client all department (large organisations)
 Logically isolated form other VPCs
 
-![alt text] (https://github.com/szczepanski/cloud-aws-csa-associate/blob/master/media/vpc1.png)
+![alt text](https://github.com/szczepanski/cloud-aws-csa-associate/blob/master/media/vpc1.png)
 
 
 ### Basic Rules
