@@ -3,29 +3,12 @@ Reference:
 https://www.udemy.com/aws-certified-solutions-architect-associate-exam/learn/v4/content
 
 # Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-4. [Another paragraph4](#paragraph4)
-    1. [Subcio](#subcio10)
 
+- [Introduction](#introduction)
 
+- [Test Paragraph](#paragraph4)
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
-#### Another paragraph <a name="paragraph4"></a>
-The second paragraph text
-
-#### Another paragraph <a name="subcio10"></a>
-The second paragraph text
+   - [Test Sub](#subcio10)
 
 
 
@@ -34,15 +17,10 @@ The second paragraph text
 
 
 
+# Introduction <a name="introduction"></a>
 
+## IaaS, PaaS, DaaS, Saas 
 
-
-
-
-## Introduction <a name="introduction"></a>
-
-
-IaaS, PaaS, DaaS, Saas 
 IaaS - infrastructure-  storage, compute, VM (EC2s), connectivity, networking, security
 PaaS - platform all above plus database sqls servers, aurora etc. with non managed database 
 DaaS - database - managed database solution
@@ -51,13 +29,13 @@ SaaS - software - office 365, creative cloud etc
 OPEX - operational expenditure (own operations or  monthly bill - AWS - elastic)
 CAPEX - capital expenditure (equipment, employees, utility bills, static)
  
-ways to access AWS:
+## 3 Ways to access AWS:
 console
 REST API
 SDK - software development kits
 CLI
 
-Section 3 - Free tier and IAM - Identity and Access Management basics. 
+## Free tier and IAM - Identity and Access Management basics. 
 arn - amazon resource name 
 Identity and Access Management - IAM
 Two type of IAM identities:
@@ -77,3 +55,12 @@ Check option to force new user to change the password at first login.
 IAM Password Policy Screen 
 Section 4
 VPC intro 
+
+
+
+
+#### Another paragraph <a name="paragraph4"></a>
+The second paragraph text
+
+#### Another paragraph <a name="subcio10"></a>
+The second paragraph text
