@@ -7,11 +7,7 @@ https://www.udemy.com/aws-certified-solutions-architect-associate-exam/learn/v4/
 - [Introduction](#introduction)
    - [... aaS and access](#aas)    
    - [IAM Basics](#iambasic)
-
 - [Core Knowledge](#core)
-- [Test Paragraph](#paragraph4)
-
-   - [Test Sub](#subcio10)
 
 
 
