@@ -1,3 +1,7 @@
+Reference:
+
+https://www.udemy.com/aws-certified-solutions-architect-associate-exam/learn/v4/content
+
 # Table of contents
 1. [Introduction](#introduction)
 2. [Some paragraph](#paragraph1)
@@ -6,8 +10,7 @@
 4. [Another paragraph4](#paragraph4)
     1. [Subcio](#subcio10)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
@@ -25,8 +28,20 @@ The second paragraph text
 The second paragraph text
 
 
-Section 1  - course intro
-Section 2 Introduction to cloud Computing
+
+
+
+
+
+
+
+
+
+
+
+## Introduction <a name="introduction"></a>
+
+
 IaaS, PaaS, DaaS, Saas 
 IaaS - infrastructure-  storage, compute, VM (EC2s), connectivity, networking, security
 PaaS - platform all above plus database sqls servers, aurora etc. with non managed database 
