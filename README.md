@@ -19,13 +19,13 @@
 # Introduction 
 
 ## IaaS, PaaS, DaaS, Saas ik
-IaaS - infrastructure-  storage, compute, VM (EC2s), connectivity, networking, security
-PaaS - platform all above plus database sql servers, aurora etc. with non managed database 
-DaaS - database - managed database solution
-SaaS - software - office 365, creative cloud etc
+- IaaS - infrastructure-  storage, compute, VM (EC2s), connectivity, networking, security
+- PaaS - platform all above plus database sql servers, aurora etc. with non managed database 
+- DaaS - database - managed database solution
+- SaaS - software - office 365, creative cloud etc
 
-OPEX - operational expenditure (own operations or  monthly bill - AWS - elastic)
-CAPEX - capital expenditure (equipment, employees, utility bills, static)
+- OPEX - operational expenditure (own operations or  monthly bill - AWS - elastic)
+- CAPEX - capital expenditure (equipment, employees, utility bills, static)
  
 ## 3 Ways to access AWS:
 - console
