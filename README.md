@@ -66,7 +66,7 @@ VPC intro
 
 ## VPC - Virtual Private Cloud
 
-VPCs are either for one client all department (large organisations)
+VPCs are either for one client or a department (in corp)
 Logically isolated form other VPCs
 
 ![alt text](https://github.com/szczepanski/cloud-aws-csa-associate/blob/master/media/vpc1.png)
